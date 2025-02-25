@@ -1,5 +1,3 @@
-Here's a **README.md** file for your GitHub repository. It explains what the script does, how to use it, and why it's useful. 🚀  
-
 ---
 
 ### **🧹 Lenovo & Windows Deep Cleanup Script**
