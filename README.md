@@ -1,4 +1,3 @@
----
 
 ### **🧹 Lenovo & Windows Deep Cleanup Script**
 **Free up 50GB+ of space by removing bloatware, cleaning temp files, and optimizing Windows!**  
