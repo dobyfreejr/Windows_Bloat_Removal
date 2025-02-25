@@ -84,4 +84,3 @@ Open an **issue** or reach out on GitHub! 🚀
 
 ---
 
-Let me know if you want any modifications before you upload it! 🚀
